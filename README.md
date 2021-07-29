@@ -14,39 +14,3 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 ## Summary
 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-qa8g
